@@ -2,6 +2,8 @@
 
 This Arduino project displays real-time temperature data using a BMP280 sensor on an SSD1306 OLED display. It also shows a visual trend (up, down, or steady) based on the last 10 temperature measurements. An LED is used to signal different temperature ranges.
 
+Arduino + SSD1306 + BMP280 + Status LED = Temperature Trend OLED Display with BMP280 Sensor
+
 ## Features
 
 - Displays temperature on a 128x32 OLED display.
